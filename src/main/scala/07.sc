@@ -13,4 +13,4 @@ class D extends B with C
 
 val d = new D
 
-//todo: call foo
+d.foo
